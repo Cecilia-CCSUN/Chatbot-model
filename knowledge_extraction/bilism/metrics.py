@@ -2,7 +2,6 @@
 # encoding: utf-8
 
 
-# copied from `https://github.com/chakki-works/seqeval`
 
 from __future__ import absolute_import
 from __future__ import division
