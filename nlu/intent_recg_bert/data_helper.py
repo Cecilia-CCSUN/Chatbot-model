@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-'''
-@license: (C) Copyright 2013-2020, Node Supply Chain Manager Corporation Limited.
-@time: 2021/5/8 17:49
-@file: data_helper.py
-@author: baidq
-@Software: PyCharm
-@desc:
-'''
+
 import json
 import pandas as pd
 import matplotlib.pyplot as plt
