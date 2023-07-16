@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-'''
-@license: (C) Copyright 2013-2020, Node Supply Chain Manager Corporation Limited.
-@time: 2021/6/4 11:13
-@file: config.py
-@author: baidq
-@Software: PyCharm
-@desc:
-'''
+
 # 注意，这里每一个意图下都有"Disease"这个槽位
 # 只要在最开始将该槽位填充后，后面就可以不断的就填充的槽值进行多轮对话
 # 因为槽位填充的逻辑里面有一个是获取上一步的槽值
