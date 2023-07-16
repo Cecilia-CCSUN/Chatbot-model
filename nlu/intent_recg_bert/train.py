@@ -1,13 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 '''
-@license: (C) Copyright 2013-2020, Node Supply Chain Manager Corporation Limited.
-@time: 2021/5/10 14:57
-@file: train.py
-@author: baidq
-@Software: PyCharm
-@desc:
-'''
+
 
 from bert4keras.backend import keras
 from bert4keras.tokenizers import Tokenizer
