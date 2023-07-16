@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-'''
-@license: (C) Copyright 2013-2020, Node Supply Chain Manager Corporation Limited.
-@time: 2021/6/4 16:10
-@file: app.py
-@author: baidq
-@Software: PyCharm
-@desc:
-'''
+
 import flask
 import tensorflow as tf
 from gevent import pywsgi
