@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-'''
-@license: (C) Copyright 2013-2020, Node Supply Chain Manager Corporation Limited.
-@time: 2021/5/17 11:26
-@file: predict.py
-@author: baidq
-@Software: PyCharm
-@desc:
-'''
+
 from bert4keras.snippets import sequence_padding, DataGenerator
 from nlu.intent_recg_bert.data_helper import load_data
 from bert4keras.tokenizers import Tokenizer
