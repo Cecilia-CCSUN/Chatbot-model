@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-'''
-@license: (C) Copyright 2013-2020, Node Supply Chain Manager Corporation Limited.
-@time: 2021/6/7 9:48
-@file: local.py
-@author: baidq
-@Software: PyCharm
-@desc:
-'''
+
 
 import os
 import itchat
