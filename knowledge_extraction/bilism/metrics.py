@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-'''
-@license: (C) Copyright 2013-2020, Node Supply Chain Manager Corporation Limited.
-@time: 2021/5/7 16:01
-@file: metrics.py
-@author: baidq
-@Software: PyCharm
-@desc:
-'''
+
 
 # copied from `https://github.com/chakki-works/seqeval`
 
