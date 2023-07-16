@@ -5,8 +5,8 @@ nlu (intent_recg_bert): Intention recognition for geoscience
 
 nlu (sklearn_Classification): Daily greeting
 
-config.py:
+config.py: Slot filling for querying answer
 
-local.py:
+local.py: Local server
 
-modules.py:
+modules.py: Answer the geographical users' question
