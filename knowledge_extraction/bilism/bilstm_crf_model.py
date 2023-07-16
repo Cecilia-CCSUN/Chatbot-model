@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-'''
-@license: (C) Copyright 2013-2020, Node Supply Chain Manager Corporation Limited.
-@time: 2022/12/7 14:55
-@file: bilstm_crf_model.py.py
-@author: Cecilia
-@Software: PyCharm
-@desc:
-'''
+
 
 import keras
 from crf_layer import CRF
