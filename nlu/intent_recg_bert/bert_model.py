@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-'''
-@license: (C) Copyright 2013-2020, Node Supply Chain Manager Corporation Limited.
-@time: 2021/5/8 16:55
-@file: bert_model.py
-@author: baidq
-@Software: PyCharm
-@desc:
-'''
+
 
 from bert4keras.backend import keras,set_gelu
 from bert4keras.models import build_transformer_model
