@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-'''
-@license: (C) Copyright 2013-2020, Node Supply Chain Manager Corporation Limited.
-@time: 2022/12/7 15:09
-@file: data_helpers.py
-@author: Cecilia
-@Software: PyCharm
-@desc:
-'''
+
 
 # coding=utf-8
 import re,os
